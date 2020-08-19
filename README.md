@@ -1,3 +1,9 @@
+Things to be done-->>>
+1>Update this in such a way that we can play a series of multiple matches.
+2> Ask for the names of the players.
+
+
+
 # TicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
